@@ -17,10 +17,7 @@ I am passionate in studying computer related techniques, such as high performanc
 
 ## Education 
 
-*Master Student of Computer Science, 2015.9 - 2017.5 (expected)
-Department of Computer Science, George Washington University.
-Advised by Professor Claire Monteleoni
-GPA 3.38/4.0 (current)
+*Master Student of Computer Science, 2015.9 - 2017.5 (expected)<br/>Department of Computer Science, George Washington University.<br/>Advised by Professor Claire Monteleoni<br/>GPA 3.38/4.0 (current)<br/>
 
 *Master of Atmospheric Physics and Environmental Science, 2011.9 - 2014.6
 Peking University, Beijing, China.
@@ -33,7 +30,7 @@ GPA 3.46/4.0
 
 ## Working Experience 
 
-*2016.8 - present, Software Engineer (Intern),  Signal Vine, LLC
+*2016.9 - present, Software Engineer (Intern),  Signal Vine, LLC
 
 *2014.7 - 2015.6, Assistant Engineer, Beijing Meteorological Bureau, Beijing, China
 
