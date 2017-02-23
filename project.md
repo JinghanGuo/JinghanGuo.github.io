@@ -5,9 +5,9 @@ title: "Jinghan Guo: Project"
 ---
 &nbsp;
 
-# 1. Project in Signal Vine (2016.09 - present)
+### 1. Project in Signal Vine (2016.09 - present)
 
-# 2. Projects in Class (2015.09 - 2016.03)
+## 2. Projects in Class (2015.09 - 2016.03)
 * Implement an infinite precision arithmetic package for integer with more than 10 decimal digits. 
 
 * Implement a memory management package for storing variable-length records in a large memory space, which uses worst fit rule for selecting which free block to use for a memory request. 
