@@ -6,8 +6,24 @@ title: "Jinghan Guo: Project"
 &nbsp;
 
 ### 1. Project in Signal Vine (2016.09 - present)
+During my intern, I mainly work on two projects.
 
-### 2. Projects in Class (2015.09 - 2016.03)
+* The first project is an advanced enterprise message platform for higher education and nonprofits. In this project, I apply program definition language (similar with lisp) on the messages demanding by costumers. Specifically, I create a yaml file, import the messages to the sending queue, and send the messages to target students. Meanwhile, the messages are stored in the database (PostgreSQL).
+
+* The second project creates internal utility tools on web servers.
+I used Flask (a python framework) to create representational state transfer (REST) APIs.
+They can be used to test file transfer between local and server, and  efficiently update messages.% by choosing a template from server, update concrete variables, push it queue.
+
+This is a project I am really proud of. From knowing little about web server to creating useful utility tools step by step, I am confident to handle the challenges in future.
+
+### 2. Projects in GWU (2015.09 - 2016.03)
+
+* Socket programming: http web server. Create a socket, bind it to a specific address and port, send and receive a HTTP packet.  
+
+* Implement distributed Distance Vector Routing: writing a distributed set of procedures that implement a distributed asynchronous distance vector routing for the network.
+
+* Routing Emulation: emulate the functionalities of hosts and routers using BSD sockets for inter-process communication.  
+
 * Implement an infinite precision arithmetic package for integer with more than 10 decimal digits. 
 
 * Implement a memory management package for storing variable-length records in a large memory space, which uses worst fit rule for selecting which free block to use for a memory request. 
@@ -20,18 +36,13 @@ title: "Jinghan Guo: Project"
 
 ### 3. Weather Information Releasing System Management (2014.07 - 2015.6)
 
-* Develop a new module, which can be connected to the existed weather information releasing system.
-
-* Maintain the existed weather information releasing system.
+* Develop a new connection module to weather information releasing system and maintain the system.
 
 ### 4. Study of Cloud and Aerosol (2013.02 - 2013.11)
 
-* Study the relationship between cloud height and aerosol's concentration in Beijing.
-
-* Transform Laser radar data from time series to spatial distribution by using data preprocessing skills, including cleaning and transforming.
+* Study the relationship between cloud height and aerosol's concentration in Beijing. Transform Laser radar data from time series to spatial
 
 ### 5. Simulation of Typhoon with Fortran (2012.05 - 2013.02)
-* Design Fortran program model simulating the Typhon with the classic numerical simulation algorithm and the complex boundary condition processing scheme, which could describe the
-3D atmospheric motion under the impact of dynamic and thermal forces.
+* Design Fortran program simulation model about Typhon.
 
 {% include statistics.html %}

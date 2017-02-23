@@ -52,13 +52,10 @@ GPA 3.46/4.0
 
 ## Skills
 
-* Programming Language: C; C++; Java; Fortran; IDL; Python
+* Programming Language: C; C++; Python; Java; Fortran; IDL
 
-* Algorithm: Rank 832 out of about $334,000$ programmers (top 1% in the Algorithm Domain of HackeRank (an online judge website)
-solved 95 problems
+* Algorithm & Data Structure: Solve 191 questions on HackerRank, 83 questions on LeetCode.
 
-* Data Structure: Rank $3,316$ out of about $124,000$ programmers (top $3\%$) in the Data Structure Domain of HackerRank
-
-* Others: Linux, Vim, GitHub, Eclipse
+* Others: Linux, Vim, Jira, GitHub, Eclipse
 {% include statistics.html %}
 
