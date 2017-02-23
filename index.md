@@ -13,19 +13,19 @@ title: "Jinghan Guo - George Washington University"
 
 Currently, as a Master student majoring in Computer Science, I devote myself on programming languages, algorithms, data structures, and computer architectures, etc.
 I used to work on the simulation of atmospheric physical processes with Fortran.
-I am passionate in studying computer related techniques, such as high performance computing, big data management, machine learning, and applications development. I am also interested in Atmospheric Physics and Environmental Science and hope to do some correlation works with Computer Science. Aside of work, I enjoy traveling, reading, especially sports, such as swimming, volleyball, tennis, and squash.
+I am passionate in studying computer related techniques, such as high performance computing, big data management, machine learning, and applications development. I am also interested in Atmospheric Physics and Environmental Science and hope to do some correlation works with Computer Science. <br/>Aside of work, I enjoy traveling, reading, especially sports, such as swimming, volleyball, tennis, squash, and running.
 
 ## Education 
 
-* Master Student of Computer Science, 2015.9 - 2017.5 (expected)<br/>Department of Computer Science, George Washington University.<br/>Advised by Professor Claire Monteleoni<br/>GPA 3.38/4.0 (current)<br/>
+* **Master Student of Computer Science, 2015.9 - 2017.5 (expected)**<br/>Department of Computer Science, George Washington University.<br/>Advised by Professor Claire Monteleoni<br/>GPA 3.38/4.0 (current)<br/>
 
-* Master of Atmospheric Physics and Environmental Science, 2011.9 - 2014.6
-Peking University, Beijing, China.
-Advised by Professor Huiwen Xue
+* **Master of Atmospheric Physics and Environmental Science, 2011.9 - 2014.6**<br/>
+Peking University, Beijing, China.<br/>
+Advised by Professor Huiwen Xue<br/>
 GPA 3.63/4.0
 
-* Bachelor of Environmental Science, 2007.9 - 2011.6
-Liaoning University, China. 
+* **Bachelor of Environmental Science, 2007.9 - 2011.6**<br/>
+Liaoning University, China.<br/>
 GPA 3.46/4.0
 
 ## Working Experience 
