@@ -38,33 +38,26 @@ GPA 3.46/4.0
 
 *2011.9 - 2014.6, Graduate Research Assistant, Peking University
 
+## Honors and Awards
+*Second Prize of Scholarship for Outstanding Graduates, Peking University (2011 - 2014)
 
-* **ACM-ICPC International Collegiate Programming Contest**
-    * **Bronze Medal**, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
+*Volunteer of Haidian District, Beijing (2014)
 
-    * **Bronze Medal**, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)
-    
-    * **First Prize**, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)
+*Outstanding Student Leader in the School of Physics, Peking University (2012 - 2013)
 
-## Teaching Courses
-* [SEAS 1001 - Engineering Orientation](https://www.seas.gwu.edu/~seas001/fall16/)
+*Active Member in Graduate Student Union of Peking University (2012 - 2013)
 
-* [ECE 1010 - Introduction to Electrical and Computer Engineering](https://www.seas.gwu.edu/~ece001/)
+*Second Prize of Scholarship for Outstanding Students, Liaoning University (2009 - 2011)
 
-## Work Exeprience
-* 2016.9 - 2016.12, Graduate Teaching Assistant, George Washington University
+## Skills
 
-* 2015.9 - 2016.8, Graduate Research Assistant, George Washington University
+*Programming Language: C; C++; Java; Fortran; IDL; Python
 
-* 2012.9 - 2015.6, Graduate Research Assistant, Jilin University
+*Algorithm: Rank 832 out of about $334,000$ programmers (top 1% in the Algorithm Domain of HackeRank (an online judge website)
+solved 95 problems
 
-* 2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
+*Data Structure: Rank $3,316$ out of about $124,000$ programmers (top $3\%$) in the Data Structure Domain of HackerRank
 
-## Professional Activities
-
-* **Reviewer** 
-    * Security and Communication Networks (SCN): 2016, 2015, 2014
-  
-
+*Others: Linux, Vim, GitHub, Eclipse
 {% include statistics.html %}
 
