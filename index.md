@@ -17,7 +17,7 @@ I am passionate in studying computer related techniques, such as high performanc
 
 ## Education 
 
-* **Master Student of Computer Science, 2015.9 - 2017.5 (expected)**<br/>Department of Computer Science, George Washington University.<br/>Advised by Professor Claire Monteleoni<br/>GPA 3.38/4.0 (current)<br/>
+* **Master Student of Computer Science, 2015.9 - 2017.5 (expected)**<br/>Department of Computer Science, George Washington University.<br/>Advised by Professor Claire Monteleoni<br/>GPA 3.6/4.0 (current)<br/>
 
 * **Master of Atmospheric Physics and Environmental Science, 2011.9 - 2014.6**<br/>
 Peking University, Beijing, China.<br/>

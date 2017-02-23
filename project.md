@@ -12,11 +12,11 @@ During my intern, I mainly work on two projects.
 
 * The second project creates internal utility tools on web servers.
 I used Flask (a python framework) to create representational state transfer (REST) APIs.
-They can be used to test file transfer between local and server, and  efficiently update messages.% by choosing a template from server, update concrete variables, push it queue.
+They can be used to test file transfer between local and server, and  efficiently update messages.
 
 This is a project I am really proud of. From knowing little about web server to creating useful utility tools step by step, I am confident to handle the challenges in future.
 
-### 2. Projects in GWU (2015.09 - 2016.03)
+### 2. Course Projects in GWU (2015.09 - 2016.03)
 
 * Socket programming: http web server. Create a socket, bind it to a specific address and port, send and receive a HTTP packet.  
 
@@ -30,7 +30,7 @@ This is a project I am really proud of. From knowing little about web server to 
 
 * Automatically generate a maze, then use depth-first search(DFS) and breadth-first search(BFS) to solve this maze, respectively. 
 
-* Implement an address book supporting multiple field search in $O(n\log n)$ time complexity, with the preprocess of sorting different fields before binary searching.
+* Implement an address book supporting multiple field search in O(nlogn) time complexity, with the preprocess of sorting different fields before binary searching.
 
 * Perform document analysis for text document with Go language, which fulfills histogram of characters, alphabetical list of the words, histogram of the words, and returns the top three word sequences in the file.
 
