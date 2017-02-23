@@ -5,12 +5,12 @@ title: "Jinghan Guo - George Washington University"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;">
 
-# Yuede Ji
+# Jinghan Guo 
 {% include social.html %}
 
 
 ## About me
-Currently, as a Master student majoring in Computer Science, I devote myself on programming languages, algorithms, data structures, and computer architectures,~\emph{etc.}
+Currently, as a Master student majoring in Computer Science, I devote myself on programming languages, algorithms, data structures, and computer architectures, etc.
 I used to work on the simulation of atmospheric physical processes with Fortran.
 I am passionate in studying computer related techniques, such as high performance computing, big data management, machine learning, and applications development. I am also interested in Atmospheric Physics and Environmental Science and hope to do some correlation works with Computer Science. Aside of work, I enjoy traveling, reading, especially sports, such as swimming, volleyball, tennis, and squash.
 
@@ -18,26 +18,26 @@ I am passionate in studying computer related techniques, such as high performanc
 *Master Student of Computer Science, 2015.9 - 2017.5 (expected)
 Department of Computer Science, George Washington University.
 Advised by Professor Claire Monteleoni
-GPA $3.38/4.0$ (current)
+GPA 3.38/4.0 (current)
 
 *Master of Atmospheric Physics and Environmental Science, 2011.9 - 2014.6
 Peking University, Beijing, China.
 Advised by Professor Huiwen Xue
-GPA $3.63/4.0$
-\bigskip
+GPA 3.63/4.0
 
 *Bachelor of Environmental Science, 2007.9 - 2011.6
 Liaoning University, China. 
-GPA $3.46/4.0$
+GPA 3.46/4.0
 
-## Selected Awards
-* **Best Paper Award**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
+## Working Experience 
+*2016.8 - present, Software Engineer (Intern),  Signal Vine, LLC
 
-* **Outstanding Master's Thesis**, Jilin University (2015) (The highest honor for master thesis at Jilin University)
+*2014.7 - 2015.6, Assistant Engineer, Beijing Meteorological Bureau, Beijing, China
 
-* **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014) (The highest honor for graduate students in China)
+*2012.9 - 2013.6, Graduate Teaching Assistant, Peking University
 
-* **Meritorious Winner** (Top 2%-11%) of Mathematical Contest in Modeling (MCM), MCM Competition Organizing Committee (04/2011)
+*2011.9 - 2014.6, Graduate Research Assistant, Peking University
+
 
 * **ACM-ICPC International Collegiate Programming Contest**
     * **Bronze Medal**, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
