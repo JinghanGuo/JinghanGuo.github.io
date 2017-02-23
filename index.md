@@ -1,7 +1,7 @@
 ---
 layout: default
 section: home
-title: "Yuede Ji - George Washington University"
+title: "Jinghan Guo - George Washington University"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;">
 
@@ -10,28 +10,25 @@ title: "Yuede Ji - George Washington University"
 
 
 ## About me
-I am a Ph.D. student from the [Department of Electrical and Computer Engineering](https://www.ece.gwu.edu) at [The George Washington University](https://www.gwu.edu). It's my great honor to be advised by [Prof. H. Howie Huang](https://csl.seas.gwu.edu). Prior to joining GWU, I received my B.E., M.S. from College of Computer Science and Technology, Jilin University, advised by [Prof. Qiang Li](http://cs.jlu.edu.cn/?mod=teacher&act=view&id=69).
+Currently, as a Master student majoring in Computer Science, I devote myself on programming languages, algorithms, data structures, and computer architectures,~\emph{etc.}
+I used to work on the simulation of atmospheric physical processes with Fortran.
+I am passionate in studying computer related techniques, such as high performance computing, big data management, machine learning, and applications development. I am also interested in Atmospheric Physics and Environmental Science and hope to do some correlation works with Computer Science. Aside of work, I enjoy traveling, reading, especially sports, such as swimming, volleyball, tennis, and squash.
 
-My research interests are mainly in High Performance Computing, Computer and Network Security. Currently, I am researching on graph computation and GPU.
+## Education 
+*Master Student of Computer Science, 2015.9 - 2017.5 (expected)
+Department of Computer Science, George Washington University.
+Advised by Professor Claire Monteleoni
+GPA $3.38/4.0$ (current)
 
-## Publications 
-([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
+*Master of Atmospheric Physics and Environmental Science, 2011.9 - 2014.6
+Peking University, Beijing, China.
+Advised by Professor Huiwen Xue
+GPA $3.63/4.0$
+\bigskip
 
-* **Combating the evasion mechanisms of social bots**. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/> <strong>Computers & Security</strong>, Volume 58, May 2016, Pages 230-249<br/>
-
-* **Detection of Forwarding-based Malicious URLs in Online Social Networks**. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/><strong>International Journal of Parallel Programming (IJPP)</strong>, 44(1), 163-180, 2016.
-
-* **BotCatch: leveraging signature and behavior for bot detection**. [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>Security and Communication Networks (SCN)</strong>, 8(6): 952-969 (2015) 
-
-* **Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection**. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>International Journal of Distributed Sensor Networks (IJDSN)</strong>, 2015. 
-
-* **Towards Social Botnet Behavior Detecting in the End Host**. [[PDF]](static/papers/8 Towards Social Botnet Behavior Detecting in the End Host_ICPADS2014.pdf) [[PPT]](static/papers/8_Social_Botnet_ICPADS_2014_slides.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, and Qiang Li.<br/><strong>ICPADS 2014</strong>, 20th IEEE International Conference on Parallel and Distributed System 
-
-* **A Multiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches**. [[PDF]](static/papers/5 A Mulitiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches_ISPEC_2014.pdf) [[PPT]](static/papers/5_multiproces_ispec14.pptx) <br/><u>Yuede Ji</u>, Yukun He, Dewei Zhu, Qiang Li, and Dong Guo.<br/><strong>ISPEC 2014</strong>, Information Security Practice and Experience. Springer International Publishing, 2014: 75-89  
-
-* **BotCatch: A Behavior and Signature Correlated Bot Detection Approach**. [[PDF]](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf) [[PPT]](static/papers/4_botcatch_report-final.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/><strong>HPCC_EUC 2013</strong>, High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing, 2013 IEEE 10th International Conference on. IEEE, 2013: 1634-1639
-
-* **BotInfer: A Bot Inference Approach by Correlating Host and Network Information**.  [[PDF]](static/papers/2 BotInfer A Bot Inference Approach by Correlating Host and Network Information_NPC2013.pdf)<br/>Yukun He, Qiang Li, <u>Yuede Ji</u>, and Dong Guo.<br/><strong>NPC 2013</strong>, Network and Parallel Computing, Springer Berlin Heidelberg, 2013: 356-367  
+*Bachelor of Environmental Science, 2007.9 - 2011.6
+Liaoning University, China. 
+GPA $3.46/4.0$
 
 ## Selected Awards
 * **Best Paper Award**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
