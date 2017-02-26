@@ -12,8 +12,7 @@ During my intern, I mainly work on two projects.
 
 * The second project creates internal utility tools on web servers.
 I used Flask (a python framework) to create representational state transfer (REST) APIs.
-They can be used to test file transfer between local and server, and  efficiently update messages.
-
+They can be used to test file transfer between local and server, and  efficiently update messages.<br/>
 This is a project I am really proud of. From knowing little about web server to creating useful utility tools step by step, I am confident to handle the challenges in future.
 
 ### 2. Course Projects in GWU (2015.09 - 2016.03)

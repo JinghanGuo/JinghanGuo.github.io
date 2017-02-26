@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Jinghan Guo - George Washington University"
 ---
-<!-- <img src="static/info/profile.jpg" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;"> -->
+<img src="static/info/profile.jpg" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;"> 
 
 # Jinghan Guo 
 {% include social.html %}
