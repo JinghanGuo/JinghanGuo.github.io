@@ -54,8 +54,6 @@ GPA 3.46/4.0
 
 * Programming Language: C; C++; Python; Java; Fortran; IDL
 
-* Algorithm & Data Structure: Solve 191 questions on HackerRank, 83 questions on LeetCode.
-
 * Others: Linux, Vim, Jira, GitHub, Eclipse
 {% include statistics.html %}
 
