@@ -5,7 +5,7 @@ title: "Jinghan Guo: Project"
 ---
 &nbsp;
 
-### 1. Project at Signal Vine, LLC (2016.09 - present)
+### 1. Projects at Signal Vine, LLC (2016.09 - present)
 
 * <strong>Maintaining an Enterprise Message Platform (YAML, JSON, PostgreSQL, Vagrant):</strong><br/>In this project, I apply program definition language (similar with lisp) on the messages demanding by costumers. Specifically, I create a yaml file, import the messages to the sending queue, and send the messages to target students. Meanwhile, the messages are stored in the database (PostgreSQL).
 
@@ -14,7 +14,7 @@ I used Flask (a python framework) to create representational state transfer (RES
 They can be used to test file transfer between local and server, and  efficiently update messages.
 This is a project I am really proud of. From knowing little about web server to creating useful utility tools step by step, I am confident to handle the challenges in future.
 
-### 2. Course Projects in GWU (2015.09 - 2016.03)
+### 2. Course Projects at GWU (2015.09 - 2017.03)
 
 * <strong>Simulate TCP Communication (Python, C, HTTP, TCP):</strong><br/>
 Create a socket, bind it to a specific address and port, send and receive a HTTP packet.  

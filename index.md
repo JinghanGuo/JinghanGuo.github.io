@@ -36,7 +36,7 @@ GPA 3.46/4.00
 
 * Web Application: Python (Flask), HTML
 
-* Other: Linux, Vim, Jira, GitHub
+* Other: Linux, Vim, Jira, GitHub, Vagrant
 
 ## Working Experience 
 
