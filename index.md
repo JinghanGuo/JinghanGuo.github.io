@@ -9,11 +9,12 @@ title: "Jinghan Guo - George Washington University"
 {% include social.html %}
 
 
-## About me 
+## About me
 
-Currently, as a Master student majoring in Computer Science, I devote myself on programming languages, algorithms, data structures, and computer architectures, etc.
-I used to work on the simulation of atmospheric physical processes with Fortran.
-I am passionate in studying computer related techniques, such as high performance computing, big data management, machine learning, and applications development. I am also interested in Atmospheric Physics and Environmental Science and hope to do some correlation works with Computer Science. <br/>Aside of work, I enjoy traveling, reading, especially sports, such as swimming, volleyball, tennis, squash, and running.
+I am Jinghan Guo, a second year master student majoring in Computer Science at [The George Washington University](https://www.gwu.edu). I am expected to graduate in May 2017. I am looking for Software Engineer (front-end, back-end, full stack, quality) positionin high-tech or financial companies. 
+I devote myself on programming languages, algorithms, data structures, big data analysis, web applications, etc.
+I am passionate of learning new techniques as well.
+<br/>Aside of work, I enjoy traveling, reading, watching movies. I am a super fan of sports, such as swimming, volleyball, tennis, squash, and running.
 
 ## Education 
 
