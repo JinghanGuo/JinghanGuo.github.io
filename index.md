@@ -9,7 +9,7 @@ title: "Jinghan Guo - George Washington University"
 {% include social.html %}
 
 
-## About me
+## About me ## ([C.V.](static/info/jinghan_cv.pdf))
 
 Currently, as a Master student majoring in Computer Science, I devote myself on programming languages, algorithms, data structures, and computer architectures, etc.
 I used to work on the simulation of atmospheric physical processes with Fortran.
@@ -21,7 +21,7 @@ I am passionate in studying computer related techniques, such as high performanc
 
 * **Master of Atmospheric Physics and Environmental Science, 2011.9 - 2014.6**<br/>
 [Peking University](http://english.pku.edu.cn/), Beijing, China.<br/>
-Advised by [Prof. Huiwen Xue](http://www.atmos.pku.edu.cn/hxue)/<br/>
+Advised by [Prof. Huiwen Xue](http://www.atmos.pku.edu.cn/hxue)<br/>
 GPA 3.63/4.00
 
 * **Bachelor of Environmental Science, 2007.9 - 2011.6**<br/>
