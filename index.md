@@ -17,16 +17,16 @@ I am passionate in studying computer related techniques, such as high performanc
 
 ## Education 
 
-* **Master Student of Computer Science, 2015.9 - 2017.5 (expected)**<br/>Department of Computer Science, George Washington University.<br/>Advised by Professor Claire Monteleoni<br/>GPA 3.6/4.0 (current)<br/>
+* **Master Student of Computer Science, 2015.9 - 2017.5 (expected)**<br/>Department of Computer Science, George Washington University.<br/>Advised by [Prof. Claire Monteleoni](http://faculty.cs.gwu.edu/~cmontel/C._Monteleoni.html)<br/>GPA 3.60/4.00 (current)<br/>
 
 * **Master of Atmospheric Physics and Environmental Science, 2011.9 - 2014.6**<br/>
 Peking University, Beijing, China.<br/>
-Advised by Professor Huiwen Xue<br/>
-GPA 3.63/4.0
+Advised by [Prof. Huiwen Xue](http://www.atmos.pku.edu.cn/hxue)/<br/>
+GPA 3.63/4.00
 
 * **Bachelor of Environmental Science, 2007.9 - 2011.6**<br/>
 Liaoning University, China.<br/>
-GPA 3.46/4.0
+GPA 3.46/4.00
 
 ## Working Experience 
 
