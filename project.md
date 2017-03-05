@@ -17,7 +17,8 @@ This is a project I am really proud of. From knowing little about web server to 
 
 ### 2. Course Projects in GWU (2015.09 - 2016.03)
 
-* Socket programming: http web server. Create a socket, bind it to a specific address and port, send and receive a HTTP packet.  
+* Simulate TCP Communication (Python, C, HTTP, TCP):
+Create a socket, bind it to a specific address and port, send and receive a HTTP packet.  
 
 * Implement distributed Distance Vector Routing: writing a distributed set of procedures that implement a distributed asynchronous distance vector routing for the network.
 
