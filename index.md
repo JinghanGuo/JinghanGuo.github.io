@@ -9,7 +9,7 @@ title: "Jinghan Guo - George Washington University"
 {% include social.html %}
 
 
-## About me ## ([C.V.](static/info/jinghan_cv.pdf))
+## About me 
 
 Currently, as a Master student majoring in Computer Science, I devote myself on programming languages, algorithms, data structures, and computer architectures, etc.
 I used to work on the simulation of atmospheric physical processes with Fortran.
@@ -27,6 +27,16 @@ GPA 3.63/4.00
 * **Bachelor of Environmental Science, 2007.9 - 2011.6**<br/>
 [Liaoning University](http://enweb.lnu.edu.cn/), China.<br/>
 GPA 3.46/4.00
+
+## Skills
+
+* Programming: C (3y), C++ (2y), Python (2y), Java (2y), Fortran (3y), MATLAB, Go 
+
+* Data: PostgreSQL, MySQL, JSON, Agile, YAML
+
+* Web Application: Python (Flask), HTML
+
+* Other: Linux, Vim, Jira, GitHub
 
 ## Working Experience 
 
@@ -50,10 +60,5 @@ GPA 3.46/4.00
 
 * Second Prize of Scholarship for Outstanding Students, Liaoning University (2009 - 2011)
 
-## Skills
-
-* Programming Language: C; C++; Python; Java; Fortran; IDL
-
-* Others: Linux, Vim, Jira, GitHub, Eclipse
 {% include statistics.html %}
 
