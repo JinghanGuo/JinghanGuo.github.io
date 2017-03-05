@@ -30,7 +30,7 @@ GPA 3.46/4.00
 
 ## Working Experience 
 
-* 2016.9 - present, Software Engineer (Intern),  Signal Vine, LLC
+* 2016.9 - present, Software Engineer (Intern), [Signal Vine, LLC](https://www.signalvine.com/), Alexandria, VA
 
 * 2014.7 - 2015.6, Assistant Engineer, Beijing Meteorological Bureau, Beijing, China
 
