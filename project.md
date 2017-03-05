@@ -5,12 +5,11 @@ title: "Jinghan Guo: Project"
 ---
 &nbsp;
 
-### 1. Project in Signal Vine (2016.09 - present)
-During my intern, I mainly work on two projects.
+### 1. Project at Signal Vine, LLC (2016.09 - present)
 
-* The first project is an advanced enterprise message platform for higher education and nonprofits. In this project, I apply program definition language (similar with lisp) on the messages demanding by costumers. Specifically, I create a yaml file, import the messages to the sending queue, and send the messages to target students. Meanwhile, the messages are stored in the database (PostgreSQL).
+* <strong>Maintaining an Enterprise Message Platform (YAML, JSON, PostgreSQL, Vagrant):</strong> In this project, I apply program definition language (similar with lisp) on the messages demanding by costumers. Specifically, I create a yaml file, import the messages to the sending queue, and send the messages to target students. Meanwhile, the messages are stored in the database (PostgreSQL).
 
-* The second project creates internal utility tools on web servers.
+* <strong>Internal Utility Tools on Web Servers (Python, Flask, RESTful API):</strong>
 I used Flask (a python framework) to create representational state transfer (REST) APIs.
 They can be used to test file transfer between local and server, and  efficiently update messages.<br/>
 This is a project I am really proud of. From knowing little about web server to creating useful utility tools step by step, I am confident to handle the challenges in future.
