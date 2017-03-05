@@ -7,37 +7,37 @@ title: "Jinghan Guo: Project"
 
 ### 1. Project at Signal Vine, LLC (2016.09 - present)
 
-* <strong>Maintaining an Enterprise Message Platform (YAML, JSON, PostgreSQL, Vagrant):</strong> In this project, I apply program definition language (similar with lisp) on the messages demanding by costumers. Specifically, I create a yaml file, import the messages to the sending queue, and send the messages to target students. Meanwhile, the messages are stored in the database (PostgreSQL).
+* <strong>Maintaining an Enterprise Message Platform (YAML, JSON, PostgreSQL, Vagrant):</strong><br/>In this project, I apply program definition language (similar with lisp) on the messages demanding by costumers. Specifically, I create a yaml file, import the messages to the sending queue, and send the messages to target students. Meanwhile, the messages are stored in the database (PostgreSQL).
 
-* <strong>Internal Utility Tools on Web Servers (Python, Flask, RESTful API):</strong>
+* <strong>Internal Utility Tools on Web Servers (Web Application, Python, Flask, RESTful API):</strong><br/>
 I used Flask (a python framework) to create representational state transfer (REST) APIs.
-They can be used to test file transfer between local and server, and  efficiently update messages.<br/>
+They can be used to test file transfer between local and server, and  efficiently update messages.
 This is a project I am really proud of. From knowing little about web server to creating useful utility tools step by step, I am confident to handle the challenges in future.
 
 ### 2. Course Projects in GWU (2015.09 - 2016.03)
 
-* <strong>Simulate TCP Communication (Python, C, HTTP, TCP):</strong>
+* <strong>Simulate TCP Communication (Python, C, HTTP, TCP):</strong><br/>
 Create a socket, bind it to a specific address and port, send and receive a HTTP packet.  
 
-* <strong>Distributed Distance Vector Routing (C++, HTTP):</strong> 
+* <strong>Distributed Distance Vector Routing (C++, HTTP):</strong><br/> 
 Create a distributed set of procedures which comprise a distributed asynchronous distance vector routing for network.
 
-* <strong>Routing Emulation (C, Routing, Inter-Process Communication):</strong>
+* <strong>Routing Emulation (C, Routing, Inter-Process Communication):</strong><br/>
 Emulate the functionalities of hosts and routers using BSD sockets for inter-process communication.  
 
-* <strong>Big Number Operation (Java):</strong>
+* <strong>Big Number Operation (Java):</strong><br/>
 Implement an infinite precision arithmetic package for integer with more than 10 decimal digits. 
 
-* <strong>Memory Manager (Java):</strong>
+* <strong>Memory Manager (Java):</strong><br/>
 Implement a memory management package for storing variable-length records in a large memory space, which uses worst fit rule for selecting which free block to use for a memory request. 
 
-* <strong>Maze Simulation (Java, Disjoint-set, DFS/BFS):</strong>
+* <strong>Maze Simulation (Java, Disjoint-set, DFS/BFS):</strong><br/>
 Create a random maze, use depth-first search (DFS) and breadth-first search (BFS) to find the paths this maze, respectively. 
 
-* <strong>Address Book Search (C++, Sort, Binary Search):</strong>
+* <strong>Address Book Search (C++, Sort, Binary Search):</strong><br/>
 Create an address book which supports multiple field search in O(nlogn) time complexity. It uses binary search after sorting different fields.
 
-* <strong>Text Analysis (Go):</strong>
+* <strong>Text Analysis (Go):</strong><br/>
 Analyze text document with Go language. It fulfills histogram of characters, alphabetical list of the words, histogram of the words, and returns the top three word sequences in the file.
 
 ### 3. Previous Projects
